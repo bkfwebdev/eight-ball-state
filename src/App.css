@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.eight-ball {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height:250px;
+  width:250px;
+  border-radius: 50%;
+  background-color: black;
+  color:white
+}
